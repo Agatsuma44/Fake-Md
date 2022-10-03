@@ -1,7 +1,7 @@
 {
-  "name": "hinata-md",
+  "name": "fake-md",
   "version": "0.0.5",
-  "description": "Simple whatsapp bot with multi device.",
+  "description": "Bot whasaff asli dan tiada kepalsuan.",
   "main": "main.js",
   "directories": {
     "lib": "lib"
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "riy04",
+  "author": "f4aizi 4z",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "github:riy04/baileys",
