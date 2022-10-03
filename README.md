@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://drive.google.com/file/d/1IFJ_9rpUD3CvQHtEAUlLoFs6Gr_tyC77/view?usp=drivesdk" alt="Fake-Md" width="100"/>
+<img src="https://pin.it/KBQz6K6" alt="Fake-Md" width="100"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="Kurta Gang" src="https://img.shields.io/badge/HINATA HYUGA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Kurta Gang" src="https://pin.it/KBQz6K6"></a>
 </p>
 <p align="center">
 <a href="https://github.com/riy04/followers"><img title="Followers" src="https://img.shields.io/github/followers/riychdwayne?color=red&style=flat-square"></a>
@@ -68,7 +68,7 @@ npm start
 </p>
 
 ## Donate
-- [Saweria](https://saweria.co/Riy20)
+- [Saweria](https://saweria.co/Agatsuma44)
 
 # Thanks to
 - Irfan H.
